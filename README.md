@@ -43,7 +43,7 @@ XChange/
 
 ## Output
 
-![](https://i.ibb.co/dwXpJ7K6/Screenshot-2026-04-21-123214.png)
+![](https://i.ibb.co/c0q2nQZ/Screenshot-2026-04-21-124126.png)
 
  ##  Key Features
  
