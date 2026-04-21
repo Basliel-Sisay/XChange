@@ -34,7 +34,7 @@ async function converter() {
     if (rate) {
       const result = (amount * rate).toFixed(2);
       console.log("\n" + deepPurple + "╔══════════════════════════════════════════╗" + reset);
-console.log(deepPurple + "║" + reset + bold + neonBlue + "        STARK FINANCIAL INTERFACE         " + reset + deepPurple + "║" + reset);
+console.log(deepPurple + "║" + reset + bold + neonBlue + "               XChange RATE               " + reset + deepPurple + "║" + reset);
 console.log(deepPurple + "╚══════════════════════════════════════════╝" + reset);
 console.log("\n  " + lightGray + amount + " " + base + reset + "  " + neonBlue + "▬▬▶" + reset + "  " + gold + bold + result + " " + target + reset);
 console.log("\n  " + lightGray + " LINK: " + reset + neonBlue + "v6.exchangerate-api.com" + reset);
